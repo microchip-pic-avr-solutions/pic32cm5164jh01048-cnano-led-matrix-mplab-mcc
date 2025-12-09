@@ -33,5 +33,5 @@ MP_CPPC_DIR="/opt/microchip/xc32/v5.00/bin"
 MP_AS_DIR="/opt/microchip/xc32/v5.00/bin"
 MP_LD_DIR="/opt/microchip/xc32/v5.00/bin"
 MP_AR_DIR="/opt/microchip/xc32/v5.00/bin"
-CMSIS_DIR=/opt/microchip/mplabx/v6.25/packs/arm/CMSIS/5.4.0
-DFP_DIR=/root/.mchp_packs/Microchip/PIC32CM-JH_DFP/1.5.236
+CMSIS_DIR=/opt/microchip/mplabx/v6.25/packs/ARM/CMSIS/6.2.0
+DFP_DIR=/opt/microchip/mplabx/v6.25/packs/Microchip/PIC32CM-JH_DFP/1.5.236
