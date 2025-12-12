@@ -8,8 +8,8 @@
    </picture>
 </a>
 
-# Creating an Arcade: Animations and Games - Using the PIC32CM-JH01 Microcontroller With MCC Harmony
-The repository provides a comprehensive collection of MPLAB® X projects specifically designed to leverage the PIC32CM-JH01's peripheral functionality to control a WS2812 LED matrix. These projects showcase various interactive applications that demonstrate the capabilities of the microcontroller in managing complex LED patterns and animations. Among the featured applications, there are several dynamic and visually engaging examples:
+# Creating an Arcade: Animations and Games Using the PIC32CM JH01 Family (Arm® Cortex®-M0+ Processor) With MCC Harmony
+The repository provides a comprehensive collection of MPLAB® X projects specifically designed to leverage the peripheral functionality of the PIC32CM-JH01 family — powered by the Arm® Cortex®-M0+ processor to control a WS2812 LED matrix. These projects showcase various interactive applications that demonstrate the capabilities of the microcontroller in managing complex LED patterns and animations. Among the featured applications, there are several dynamic and visually engaging examples:
 - [Scrolling Text](#scrolling-text): A dynamic way to present messages on an LED matrix, creating smooth transitions and a visually appealing display
 - [Animations](#play-animation): Showcases engaging visual effects, including color fading, sand falling and piling, and fire animation
 - [Snake Game](#snake-game): A classic arcade game where the player controls a growing line, themed as a snake, collecting items while keeping the snake away from colliding with obstacles and itself
@@ -234,7 +234,7 @@ This chapter demonstrates how to use the MPLAB X IDE to program a PIC® device w
 
 ## Menu
 
-- [Back to Top](#creating-an-arcade-animations-and-games---using-the-pic32cm-jh01-microcontroller-with-mcc-harmony)
+- [Back to Top](#creating-an-arcade-animations-and-games---using-the-pic32cm-jh01-family---powered-by-the-arm-cortex-m0-processor-with-mcc-harmony)
 - [Back to Related Documentation](#related-documentation)
 - [Back to Software Used](#software-used)
 - [Back to Hardware Used](#hardware-used)

@@ -4,10 +4,10 @@
     "content": {
         "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu.mplabx.project.pic32cm5164jh01048-cnano-led-matrix-mplab-mcc",
-        "version": "1.0.0",
-        "displayName": "Creating an Arcade: Animations and Games - Using the PIC32CM-JH01 Microcontroller with MCC Harmony",
+        "version": "1.0.1",
+        "displayName": "Creating an Arcade: Animations and Games - Using the PIC32CM JH01 family - powered by the Arm® Cortex®-M0+ processor With MCC Harmony",
         "projectName": "pic32cm5164jh01048-cnano-led-matrix-mplab-mcc",
-        "shortDescription": "This repository provides a comprehensive collection of MPLAB X projects specifically designed to leverage the PIC32CM-JH01's peripheral functionality to control a WS2812 LED matrix.",
+        "shortDescription": "The repository provides a comprehensive collection of MPLAB® X projects specifically designed to leverage the peripheral functionality of the PIC32CM-JH01 family - based on the Arm® Cortex®-M0+ processor to control a WS2812 LED matrix.",
         "ide": [
             {
                 "name": "MPLAB X",
